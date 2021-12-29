@@ -1,4 +1,4 @@
-# **This is a personal repository of [@dipenr06](github.com/dipenr06)**
+# **This is a personal repository of [@dipenr06](https://github.com/dipenr06)**
 
 ## ***This repository collect all the codes of Data Structures and Algorithm***
 
