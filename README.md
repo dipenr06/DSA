@@ -1,8 +1,9 @@
-- This repository collect all the codes of Data Structures and Algorithm
-- This is a personal repository of mine but you can feel free to contribute here and develop your github skills here
+# **This is a personal repository of @dipenr06**
+
+## ***This repository collect all the codes of Data Structures and Algorithm***
 
 - At the moment this repo contains only 
-- Linear Search 
-- Selection Sort
+1. Linear Search 
+2. Selection Sort
 
-but you can add more codes if you wish
+but you can add more codes if you wish 
