@@ -5,5 +5,7 @@
 - At the moment this repo contains only 
 1. Linear Search 
 2. Selection Sort
+3. Bubble Sort
+4. Insertion Sort
 
 but you can add more codes if you wish 
