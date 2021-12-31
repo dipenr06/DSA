@@ -7,5 +7,6 @@
 2. Selection Sort
 3. Bubble Sort
 4. Insertion Sort
+5. Q = How to merge 2 sorted arrays
 
 but you can add more codes if you wish 
