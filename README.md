@@ -9,7 +9,10 @@
 4. Insertion Sort
 5. Q = How to merge 2 sorted arrays
 
-Problems solved
+## Problems solved
 1. Counting Occurs 
+
+## leetCode
+- Two Sum - Solved
 
 but you can add more codes if you wish 
