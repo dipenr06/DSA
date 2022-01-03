@@ -11,6 +11,7 @@
 
 ## Problems solved
 1. Counting Occurs 
+2. Swap Numbers
 
 ## leetCode
 - Two Sum - Solved
